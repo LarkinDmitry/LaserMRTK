@@ -1,7 +1,5 @@
 using Microsoft.MixedReality.Toolkit;
 using Microsoft.MixedReality.Toolkit.SpatialAwareness;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Mesh : MonoBehaviour
